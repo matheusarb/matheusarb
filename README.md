@@ -1,13 +1,14 @@
 ### Hello there! :raising_hand_man:
 ______
-* :technologist: I'm Matthew, from Salvador/Brazil, and i'm on a daily effort to become a top-notch WebDeveloper.
+* :technologist: I'm Matthew, from Salvador/Brazil, and i'm on a daily effort to become a top-notch Front-End Developer.
 * :bulb: I'm a lifelong learner which found a way to make the world less bureaucreatic through programming.
 * :rocket: I'm eager to contribute on challenging projects which will also help me to learn and evolve as a developer.  
 
 ### My Stack:
 ______
-* :desktop_computer: HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, PostgreSQL 
-* :computer_mouse::keyboard: Visual Studio Code 
+* :desktop_computer: HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap
+* :computer_mouse::keyboard: Visual Studio Code
+* :computer: Windows & Linux
 
 
 
