@@ -6,7 +6,7 @@ ______
 
 ### My Stack:
 ______
-* :desktop_computer: HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap
+* :desktop_computer: HTML, CSS, JavaScript, ReactJS, NodeJS, SASS, Bootstrap
 * :computer_mouse::keyboard: Visual Studio Code
 * :computer: Windows & Linux
 
