@@ -10,18 +10,11 @@ ______
 * :computer_mouse::keyboard: Visual Studio Code
 * :computer: Windows & Linux
 
-
-
-
-
-
-
-
 <div>
   <p>
     <a href="https://www.linkedin.com/in/matheus-ribeiro-915005143/" target="_blank" rel="linkedin profile">
-      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Matheus Ribeiro
-    </a> &nbsp;
+      <img src="https://i.stack.imgur.com/gVE0j.png" alt="Linkedin"> Matheus Ribeiro
+    </a>
   </p>
 </div>
 
