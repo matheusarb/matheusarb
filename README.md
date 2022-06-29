@@ -17,8 +17,13 @@ ______
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="matheus-ribeiro-915005143" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/matheus-ribeiro-915005143?trk=profile-badge">Matheus Ribeiro</a></div>
-
+<div>
+  <p>
+    <a href="https://www.linkedin.com/in/matheus-ribeiro-915005143/" target="_blank" rel="linkedin profile">
+      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Matheus Ribeiro
+    </a> &nbsp;
+  </p>
+</div>
 
 
 <!--
