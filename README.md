@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/0XvK4AU.png" width="500" height="500" align="right" /></a>
+
 ### Hello there! :raising_hand_man:
 ______
 * :technologist: I'm Matthews, from Salvador/Brazil, and i'm on a daily effort to become a top-notch Front-End Developer.
@@ -10,6 +12,16 @@ ______
 * :computer_mouse::keyboard: Visual Studio Code
 * :computer: Windows & Linux
 
+<a href="https://www.linkedin.com/in/matheus-ribeiro-915005143/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:mat.araujoribeiro@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+
+
+<!--
 <div>
   <p>
     <a href="https://www.linkedin.com/in/matheus-ribeiro-915005143/" target="_blank" rel="linkedin profile">
@@ -17,6 +29,10 @@ ______
     </a>
   </p>
 </div>
+-->
+
+
+
 
 
 <!--
