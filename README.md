@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/0XvK4AU.png" width="500" height="500" align="right" /></a>
+<img src="https://i.imgur.com/0XvK4AU.png" width="400" height="400" align="right" /></a>
 
 ### Hello there! :raising_hand_man:
 ______
