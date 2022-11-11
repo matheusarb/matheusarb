@@ -12,26 +12,12 @@ ______
 * :computer_mouse::keyboard: Visual Studio Code
 * :computer: Windows & Linux
 
-<a href="https://www.linkedin.com/in/matheus-ribeiro-915005143/">
+<a href="https://www.linkedin.com/in/matheusarb/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:mat.araujoribeiro@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-
-
-<!--
-<div>
-  <p>
-    <a href="https://www.linkedin.com/in/matheusarb/" target="_blank" rel="linkedin profile">
-      <img src="https://i.stack.imgur.com/gVE0j.png" alt="Linkedin"> Matheus Ribeiro
-    </a>
-  </p>
-</div>
--->
-
-
 
 
 
