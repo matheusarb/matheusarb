@@ -8,7 +8,7 @@ ______
 
 ### My Stack:
 ______
-* :desktop_computer: HTML, CSS, JavaScript, ReactJS, NodeJS, SASS, TypeScript
+* :desktop_computer: HTML5, CSS3, JavaScript(ES6), ReactJS, NodeJS, SASS, TypeScript
 * :computer_mouse::keyboard: Visual Studio Code
 * :computer: Windows & Linux
 
