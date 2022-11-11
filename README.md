@@ -24,7 +24,7 @@ ______
 <!--
 <div>
   <p>
-    <a href="https://www.linkedin.com/in/matheus-ribeiro-915005143/" target="_blank" rel="linkedin profile">
+    <a href="https://www.linkedin.com/in/matheusarb/" target="_blank" rel="linkedin profile">
       <img src="https://i.stack.imgur.com/gVE0j.png" alt="Linkedin"> Matheus Ribeiro
     </a>
   </p>
