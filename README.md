@@ -2,7 +2,7 @@
 
 <div>
    <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=matheusarb&show_icons=true&theme=cobalt" align="right" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/matheusarb?cardType=level&theme=cobalt" align="right" />
    </div>
    <div>
     <p>Making the world less bureaucratic through programming :computer:</p>
