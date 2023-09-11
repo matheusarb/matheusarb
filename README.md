@@ -1,9 +1,9 @@
 # Matheus de Araújo Ribeiro
 
-<div style="margin-bottom: 2rem">
+<div>
    <a href="https://github.com/matheusarb">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusarb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=8px"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusarb&layout=compact&langs_count=16&theme=dracula&border_radius=8px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusarb&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&border_radius=7px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusarb&layout=compact&langs_count=16&theme=cobalt&border_radius=7px"/>
 </div>
 <div style="display: inline_block">          
    <img align="center" alt="Matheus-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
