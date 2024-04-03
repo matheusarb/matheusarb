@@ -1,6 +1,4 @@
 # Matheus de Araújo Ribeiro
-![snake gif](https://github.com/matheusarb/matheusarb/blob/output/github-contribution-grid-snake.svg)
-
 <div>
    <a href="https://github.com/matheusarb">
    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/matheusarb?cardType=level&theme=cobalt" height="180em" />
@@ -34,6 +32,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
 </div>
+
+![snake gif](https://github.com/matheusarb/matheusarb/blob/output/github-contribution-grid-snake.svg)
 
 
 
