@@ -1,5 +1,5 @@
 # Matheus de Araújo Ribeiro
-
+![Snake animation](https://github.com/matheusarb/matheusarb/blob/output/github-contribution-grid-snake.svg)
 <div>
    <a href="https://github.com/matheusarb">
    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/matheusarb?cardType=level&theme=cobalt" height="180em" />
