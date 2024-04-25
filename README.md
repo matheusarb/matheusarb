@@ -1,10 +1,10 @@
 <div style="display:flex; justify-content:center">
-    <h1 style="font-style: italic">Hi, I'm Matthews</h2>
+    <h1><i>Hi, I'm Matthews</i></h1>
 </div>
 
 <div>
 <p>
-I am a brazilian software engineer currently living in Bahia, Brazil, who believes that we can <b><i>make the world less bureaucratic through programming</i></b> 😉
+<i>I am a brazilian software engineer currently living in Bahia, Brazil, who believes that we can <b><i>make the world less bureaucratic through programming</i></b> 😉
 </p>
 </div>
 
