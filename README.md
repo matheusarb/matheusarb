@@ -9,7 +9,7 @@ I am a brazilian software engineer currently living in Bahia, Brazil, who believ
 </div>
 
 <div style="display:flex; justify-content:center">
-    <h2 style="font-style: italic">Tech Skills</h2>
+    <h2><i>Tech Skills</i></h2>
 </div>
 
 <div style="align:center;">
@@ -35,7 +35,7 @@ I am a brazilian software engineer currently living in Bahia, Brazil, who believ
 </div>
 
 <div style="display:flex; justify-content:center">
-    <h2 style="font-style: italic">Contact Info</h2>
+    <h2><i>Contact Info</i></h2>
 </div>
 
 <div style="display:flex; justify-content:center">
