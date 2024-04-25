@@ -25,7 +25,7 @@ I am a brazilian software engineer currently living in Bahia, Brazil, who believ
         <img align="center" alt="Matheus-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         <img align="center" alt="Matheus-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     </div>
-    
+    <br>
    <div style="display:flex; justify-content:center; margin-top:1.25em;>
     <a href="https://github.com/matheusarb">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/matheusarb?cardType=level&theme=cobalt" height="200em" />   
