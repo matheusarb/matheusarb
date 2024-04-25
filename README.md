@@ -4,7 +4,7 @@
 
 <div>
 <p>
-<i>I am a brazilian software engineer currently living in Bahia, Brazil, who believes that we can <b><i>make the world less bureaucratic through programming</i></b> 😉
+I am a brazilian software engineer currently living in Bahia, Brazil, who believes that we can <b><i>make the world less bureaucratic through programming</i></b> 😉
 </p>
 </div>
 
